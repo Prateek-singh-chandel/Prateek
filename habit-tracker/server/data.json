@@ -1,29 +1,39 @@
 [
   {
-    "id": "03fa1fb0-a68c-4942-bd6b-c757bf82b72f",
-    "name": "do fucking stuffff",
-    "createdAt": "2026-05-03",
-    "completedDates": []
+    "id": "6f06c3e6-ac85-4399-b4ee-ee19e709e07b",
+    "name": "go to the gym",
+    "createdAt": "2026-05-01",
+    "completedDates": [
+      "2026-05-01","2026-05-02","2026-05-03"
+    ]
   },
   {
-    "id": "db05f174-af57-4a0d-b766-1f89fdc62ec1",
-    "name": "redo stuff",
+    "id": "604cb760-afd9-4d89-8478-81bf07fdc83d",
+    "name": "study 2 hours",
+    "createdAt": "2026-05-01",
+    "completedDates": [
+      "2026-05-01","2026-05-02","2026-05-03"
+    ]
+  },
+  {
+    "id": "69b284f5-7cc3-40e0-907b-0466d77ed72f",
+    "name": "meditate for 30 minutes",
     "createdAt": "2026-05-03",
     "completedDates": [
       "2026-05-03"
     ]
   },
   {
-    "id": "a72fdcec-8341-4a22-9cd1-75eed39f6201",
-    "name": "work stuff around",
-    "createdAt": "2026-05-03",
+    "id": "c4783d87-474d-4355-b476-7bfbf8a927be",
+    "name": "walk for 20 minutes",
+    "createdAt": "2026-05-02",
     "completedDates": [
-      "2026-05-03"
+      "2026-05-02","2026-05-03"
     ]
   },
   {
-    "id": "af47465b-dcc2-4409-bcb2-53766fd3cb7f",
-    "name": "do stuff",
+    "id": "447728b2-b81b-4d7b-9b97-1364d088d40a",
+    "name": "take a run",
     "createdAt": "2026-05-03",
     "completedDates": [
       "2026-05-03"
